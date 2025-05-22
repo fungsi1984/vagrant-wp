@@ -1,1 +1,0 @@
-{"dependencies":[["vagrant-bindfs",["= 1.3.1"]],["vagrant-hostmanager",["= 1.8.10"]]],"checksum":"0c65ad845ac30726fb12c224a00aaeab4d91b5cbba897f9aab06a9b82ff90a48","vagrant_version":"2.4.5"}
